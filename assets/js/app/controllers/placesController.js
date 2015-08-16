@@ -3,12 +3,12 @@ fuzzyMap.controller('PlacesController', ['$scope', 'placesFactory', 'initialPlac
     var self = this;
     self.places = initialPlaces;
 
-    var User = $resource('/api/place/:title', {title:'@id'});
+    //var User = $resource('/api/place/:title', {title:'@id'});
     //User.get({title:14}, function(user) {
     //  //console.log('resource');
     //  console.log(user);
     //});
-    storeData(initialPlaces);
+    //storeData(initialPlaces);
 
     function storeData(data) {
       data.forEach(function (item) {

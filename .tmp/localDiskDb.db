@@ -1,0 +1,247 @@
+{
+  "data": {
+    "place": [
+      {
+        "title": "COFFEEBOX",
+        "body": "<p>бу бу бу</p>",
+        "address": "ул. Владислава Голубка 2",
+        "geo": "[53.9258539,27.44466310000007]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.059Z",
+        "updatedAt": "2015-08-15T18:24:34.059Z",
+        "id": 1
+      },
+      {
+        "title": "Спорт-бар «OlyBet",
+        "body": "<p>Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet Спорт-бар &laquo;OlyBet</p>",
+        "address": "г. Минск, ул. Кунцевщина, 2а",
+        "geo": "[53.9087056,27.47333320000007]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.063Z",
+        "updatedAt": "2015-08-15T18:24:34.063Z",
+        "id": 2
+      },
+      {
+        "title": "Бар Bazaar",
+        "body": "<p>Декор в стиле лофт, черно-белые фильмы, показы мод и мягкое освещение. Коктейльная классика в качественном исполнении и необычные авторские коктейли. Экстравагантные блюда от неординарных закусок до ярких десертов. Ваш качественный отдых &mdash; это отдых на Bazaar&rsquo;е.</p>",
+        "address": "г. Минск, ул. В. Хоружей, 13",
+        "geo": "[53.9194265,27.574177400000053]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.075Z",
+        "updatedAt": "2015-08-15T18:24:34.075Z",
+        "id": 3
+      },
+      {
+        "title": "Red Kleн",
+        "body": "<p>Вот такой вот КЛЕН</p>",
+        "address": "г. Минск, ул. Космонавтов, 29",
+        "geo": "[53.8489586,27.4561801]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.077Z",
+        "updatedAt": "2015-08-15T18:24:34.077Z",
+        "id": 4
+      },
+      {
+        "title": "Гаштет",
+        "body": "<p>Найти место по душе &mdash; настоящая удача. Где не по-домашнему, но очень уютно, где радость встречи гостя &mdash; искренняя, а аромат блюд &mdash; самый-самый! И если вы все еще в поиске, предлагаем обратить внимание на гостеприимный ресторан Gastst&auml;tte, радушно приглашающий в гости.</p>",
+        "address": "г. Минск, ул. Революционная, 16",
+        "geo": "[53.9029558,27.5522349]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.079Z",
+        "updatedAt": "2015-08-15T18:24:34.079Z",
+        "id": 5
+      },
+      {
+        "title": "Пивняры",
+        "body": "<p>Если бы понадобилось охарактеризовать паб &laquo;Пивняры&raquo; всего одним словом, то это было бы слово &mdash; &laquo;всё&raquo;. Просто потому, что здесь действительно есть все!</p>",
+        "address": "г. Минск, ул. Лобанка, 77",
+        "geo": "[53.8896648,27.4288367]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.080Z",
+        "updatedAt": "2015-08-15T18:24:34.080Z",
+        "id": 6
+      },
+      {
+        "title": "Староместный пивовар",
+        "body": "<p>Ресторан &laquo;Староместный пивовар&raquo; живет духом прошлого, бережно оберегая культуру потребления и обычаи подачи пива, дошедшие к нам из глубин веков. Заведение расположилось на одной из пешеходных улиц Старого города в здании с двухвековой историей. Здесь все так и дышит стариной, заставляя окунуться в далекие времена князей и шляхтичей.</p>",
+        "address": "г. Минск, ул. К. Маркса, 21",
+        "geo": "[53.8972284,27.5555631]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.141Z",
+        "updatedAt": "2015-08-15T18:24:34.141Z",
+        "id": 7
+      },
+      {
+        "title": "Гамбринус",
+        "body": "<p>В поисках отличного и гостеприимного места для безудержного веселья и вкусного ужина самое время побродить по историческому центру Минска и заглянуть в душевный гастро*паб &laquo;Гамбринус&raquo;. Погрузившись в теплую атмосферу приятного отдыха уже с первых минут, вы сможете расслабиться и познакомиться с настоящим пивным разнообразием, включающим множество сортов лучшего бутылочного пива со всего мира, а также 13 сортов разливного пива из Чехии, Германии, Бельгии, Англии, Ирландии, России и Беларуси. Название гастро*паб &laquo;Гамбринус&raquo; &mdash; неслучайное, навеянное богатой биографией доблестного рыцаря-герцога XIII века Яна Примуса, более известного, как Гамбринус. Будучи почетным членом гильдии пивоваров, он активно работал над созданием новых сортов пива и радушно продвигал его в массы, поэтому и был признан покровителем пивоваров и королем пива во всем мире!</p>",
+        "address": "г. Минск, пл. Свободы, 2",
+        "geo": "[53.9039312,27.5557789]",
+        "images": {
+          "full": "http://testx.xameleon.by/",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/assets/snippets/phpthumb/300x250-noimage.6d0.png",
+        "createdAt": "2015-08-15T18:24:34.155Z",
+        "updatedAt": "2015-08-15T18:24:34.155Z",
+        "id": 8
+      },
+      {
+        "title": "mcDonalds",
+        "body": "<p><span>Donec sollicitudin nec lacus eget imperdiet. Sed mollis sit amet nisl ac lacinia. Mauris cursus diam magna, elementum ullamcorper lectus eleifend quis. Nulla facilisi. Mauris vitae aliquam mi. Suspendisse a elit urna. Pellentesque augue sem, elementum non rhoncus et, maximus non elit.</span></p>",
+        "address": "Беларусь, Минск, улица Сурганова, 63",
+        "geo": "[53.930088,27.577498]",
+        "images": {
+          "full": "http://testx.xameleon.by/assets/images/demo/kote.jpeg",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg",
+        "createdAt": "2015-08-15T18:24:34.157Z",
+        "updatedAt": "2015-08-15T18:24:34.157Z",
+        "id": 9
+      },
+      {
+        "title": "д5",
+        "body": "<p><span>Aliquam erat volutpat. Suspendisse potenti. Pellentesque at semper ligula, quis porta risus. Maecenas euismod lorem ut congue imperdiet.&nbsp;</span></p>",
+        "address": "г. Минск, просп. Дзержинского, 5",
+        "geo": "[53.8906694,27.5259125]",
+        "images": {
+          "full": "http://testx.xameleon.by/assets/images/demo/kote.jpeg",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg",
+        "createdAt": "2015-08-15T18:24:34.159Z",
+        "updatedAt": "2015-08-15T18:24:34.159Z",
+        "id": 10
+      },
+      {
+        "title": "Н186",
+        "body": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam vestibulum nunc, non cursus neque bibendum in. Duis tristique luctus dapibus. Suspendisse ac leo mattis, mattis augue id, luctus diam. Maecenas auctor neque malesuada ultrices maximus. Etiam ligula tellus, rutrum sit amet auctor in, lacinia eu ex.</span></p>",
+        "address": "г. Минск, просп. Независимости, 186",
+        "geo": "[53.9477035,27.6975746]",
+        "images": {
+          "full": "http://testx.xameleon.by/assets/images/demo/kote.jpeg",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg",
+        "createdAt": "2015-08-15T18:24:34.162Z",
+        "updatedAt": "2015-08-15T18:24:34.162Z",
+        "id": 11
+      },
+      {
+        "title": "н58",
+        "body": "<p><span>Maecenas facilisis accumsan tellus quis malesuada. Pellentesque vel leo in magna consequat efficitur. Curabitur pretium, purus vitae euismod lacinia, nisi dui iaculis turpis, non aliquet purus ante a leo. Vestibulum a sapien molestie, finibus neque eget, viverra justo.</span></p>",
+        "address": "г. Минск, просп. Независимости, 186",
+        "geo": "[53.91783,27.58914]",
+        "images": {
+          "full": "http://testx.xameleon.by/assets/images/demo/kote.jpeg",
+          "thumb": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg"
+        },
+        "image": "http://testx.xameleon.by/assets/cache/images/demo/300x250-kote.4e8.jpg",
+        "createdAt": "2015-08-15T18:24:34.163Z",
+        "updatedAt": "2015-08-15T18:24:34.163Z",
+        "id": 12
+      },
+      {
+        "title": null,
+        "body": null,
+        "address": null,
+        "geo": null,
+        "images": null,
+        "image": null,
+        "createdAt": "2015-08-16T10:07:35.344Z",
+        "updatedAt": "2015-08-16T10:07:35.344Z",
+        "id": 13
+      },
+      {
+        "title": null,
+        "body": null,
+        "address": null,
+        "geo": null,
+        "images": null,
+        "image": null,
+        "createdAt": "2015-08-16T10:07:47.653Z",
+        "updatedAt": "2015-08-16T10:07:47.653Z",
+        "id": 14
+      },
+      {
+        "title": null,
+        "body": null,
+        "address": null,
+        "geo": null,
+        "images": null,
+        "image": null,
+        "createdAt": "2015-08-16T10:07:56.372Z",
+        "updatedAt": "2015-08-16T10:07:56.372Z",
+        "id": 15
+      }
+    ],
+    "user": []
+  },
+  "schema": {
+    "place": {
+      "title": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "user": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    }
+  },
+  "counters": {
+    "place": {
+      "id": 15
+    },
+    "user": {}
+  }
+}
