@@ -1,7 +1,8 @@
 fuzzyMap
   .factory('placesFactory', ['$http', '$q', function ($http, $q) {
     console.log('placesFactory');
-    var BASE_URL = 'http://localhost:1337/api/place';
+    //var BASE_URL = 'http://localhost:1337/api/place';
+    var BASE_URL = 'http://devx.izodev.com/maps';
     var self = this;
     self.items = [];
 

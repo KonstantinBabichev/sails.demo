@@ -76,9 +76,9 @@ fuzzyMap.controller('MapController', ['$scope', '$resource', '$location', 'place
     };
 
     self.renderMarker = function (id, coordinates) {
-      angular.forEach(self.markers, function (marker, key) {
-        if (marker.marker_id == value.id) return null;
-      });
+      //angular.forEach(self.markers, function (marker, key) {
+      //  if (marker.marker_id == value.id) return null;
+      //});
 
       var marker = new google.maps.Marker({
         marker_id : id,
