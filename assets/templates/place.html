@@ -1,0 +1,14 @@
+<div class="places__list">
+    <a href="" ng-click="placesList.update()">UPDATE</a>
+    <ul>
+        <li ng-repeat="place in placesList.places">
+            <h2 ng-bind="place.title"></h2>
+
+            <h3 ng-bind="place.address"></h3>
+
+            <div class="intro" ng-bind-html="place.body"></div>
+            <!--<input type="checkbox" ng-model="todo.done">-->
+            <!--<span class="done-{{todo.done}}">{{todo.text}}</span>-->
+        </li>
+    </ul>
+</div>
