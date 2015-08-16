@@ -168,39 +168,6 @@
         "createdAt": "2015-08-15T18:24:34.163Z",
         "updatedAt": "2015-08-15T18:24:34.163Z",
         "id": 12
-      },
-      {
-        "title": null,
-        "body": null,
-        "address": null,
-        "geo": null,
-        "images": null,
-        "image": null,
-        "createdAt": "2015-08-16T10:07:35.344Z",
-        "updatedAt": "2015-08-16T10:07:35.344Z",
-        "id": 13
-      },
-      {
-        "title": null,
-        "body": null,
-        "address": null,
-        "geo": null,
-        "images": null,
-        "image": null,
-        "createdAt": "2015-08-16T10:07:47.653Z",
-        "updatedAt": "2015-08-16T10:07:47.653Z",
-        "id": 14
-      },
-      {
-        "title": null,
-        "body": null,
-        "address": null,
-        "geo": null,
-        "images": null,
-        "image": null,
-        "createdAt": "2015-08-16T10:07:56.372Z",
-        "updatedAt": "2015-08-16T10:07:56.372Z",
-        "id": 15
       }
     ],
     "user": []
@@ -240,7 +207,7 @@
   },
   "counters": {
     "place": {
-      "id": 15
+      "id": 12
     },
     "user": {}
   }
